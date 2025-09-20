@@ -1,0 +1,13 @@
+// Declaring a variable with 'let' (reassignable)
+let name = "Alice";
+let age = 30;
+
+// Declaring a constant with 'const' (not reassignable)
+const PI = 3.14159;
+
+// Different data types
+let isStudent = true; // Boolean
+let hobbies = ["reading","swimming", "hiking"]; // Array
+let person = { firstName: "Bob", lastName: "Smith" }; // Object
+let undefinedVar; // Undefined
+let nullVar = null; // Null
